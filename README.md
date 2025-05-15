@@ -10,7 +10,7 @@ I'm a B.Tech student from India, deeply passionate about building intelligent sy
 Currently diving deep into:
 
 - 🤖 **Agentic AI Systems** – Creating autonomous multi-agent AI workflows  
-- 🧠 **Large Language Models (LLMs)** – GPT, Claude, LLaMA, Mistral  
+- 🧠 **Large Language Models (LLMs)** – GPT, Claude, LLaMA
 - 🗣️ **Prompt Engineering** – Designing better prompts for reliable results  
 - 🛠️ **LangChain & LlamaIndex** – Frameworks for AI-powered apps  
 - 🔍 **Retrieval-Augmented Generation (RAG)** – Integrating knowledge bases with LLMs  
