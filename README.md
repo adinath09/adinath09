@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm a Final Year B.Tech Student in Artificial Intelligence & Data Science</h1>
+<h1 align="center">Hi 👋, I'm a BTech Graduate in Artificial Intelligence & Data Science</h1>
 <h3 align="center">🔬 Passionate about Data Science, Machine Learning, and AI Applications</h3>
 
 ---
